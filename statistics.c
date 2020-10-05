@@ -6,7 +6,7 @@
 #include <sys/mman.h>
 #include <sys/stat.h>
 
-#define FILE "file.txt"
+#define FILE "data/file.txt"
 
 int main(int argc, char **argv)
 {
